@@ -1,12 +1,12 @@
 <?php
 
-namespace Mix\IniParser;
+namespace Mix\Ini;
 
 use Mix\Core\Bean\BeanObject;
 
 /**
  * Class IniParser
- * @package Mix\IniParser
+ * @package Mix\Ini
  * @author LIUJIAN <coder.keda@gmail.com>
  */
 class IniParser extends BeanObject

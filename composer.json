@@ -1,5 +1,5 @@
 {
-  "name": "mix/iniparser",
+  "name": "mix/ini",
   "description": "MixPHP 框架模块 http://www.mixphp.cn",
   "type": "framework",
   "keywords": [
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Mix\\IniParser\\": "src/"
+      "Mix\\Ini\\": "src/"
     }
   }
 }
