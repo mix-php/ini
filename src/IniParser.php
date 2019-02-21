@@ -2,14 +2,14 @@
 
 namespace Mix\Ini;
 
-use Mix\Core\Bean\BeanObject;
+use Mix\Core\Bean\AbstractObject;
 
 /**
  * Class IniParser
  * @package Mix\Ini
  * @author LIUJIAN <coder.keda@gmail.com>
  */
-class IniParser extends BeanObject
+class IniParser extends AbstractObject
 {
 
     /**
